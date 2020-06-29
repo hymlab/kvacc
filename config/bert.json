@@ -1,0 +1,8 @@
+{
+  "bert.0": {
+    "hidden_size": 512,
+    "n_layers": 6,
+    "n_heads": 8,
+    "dropout": 0.1
+  }
+}

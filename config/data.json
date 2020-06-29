@@ -1,0 +1,10 @@
+{
+  "train.data.0": {
+    "train_csv": "../output/pretrain_data_HLA-ABC_plen8-15.sample.csv",
+    "max_pep_len": 15,
+    "css_list": [[9, "netmhcpan_mhci_9"]],
+    "mask_ratio": 0.2,
+    "pepseq_mask_probs": [0.5, 0.4],
+    "mhcseq_mask_probs": [0.4, 0.5]
+  }
+}

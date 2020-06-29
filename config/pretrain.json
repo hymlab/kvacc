@@ -1,0 +1,11 @@
+{
+ "pretrain_model.0": {
+   "bert_key": "bert.0",
+   "data_key": "train.data.0",
+   "optim_key": "optim.0",
+   "test_size": 0.2,
+   "n_epochs": 10,
+   "batch_size": 5,
+   "chk_file": "../output/pretrained_{0}.chk"
+ }
+}
